@@ -1,2 +1,2 @@
-My first readme updated successfully
+I am swe student
 
